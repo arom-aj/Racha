@@ -1,0 +1,6 @@
+{
+  "name": "RACHA - Contador de Estudio",
+  "description": "App de racha de estudio diaria con contador de días consecutivos, historial de los últimos 7 días y mensajes motivacionales en modo oscuro neón.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
